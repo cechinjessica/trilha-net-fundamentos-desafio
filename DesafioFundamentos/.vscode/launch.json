@@ -1,0 +1,13 @@
+{
+    "configurations": [
+        {
+            "type": "coreclr",
+            "request": "launch",
+            "name": "Launch Program",
+            "program": "${workspaceFolder}/bin/Debug/net6.0/DesafioFundamentos.dll",
+            "cwd": "${workspaceFolder}",
+            "stopAtEntry": false,
+            "internalConsoleOptions": "neverOpen"
+        }
+    ]
+}
