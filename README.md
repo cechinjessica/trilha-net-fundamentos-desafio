@@ -36,3 +36,8 @@ Por último, deverá ser feito um menu interativo com as seguintes ações imple
 
 ## Solução
 O código está pela metade, e você deverá dar continuidade obedecendo as regras descritas acima, para que no final, tenhamos um programa funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima.
+
+
+# Verificar faturamento
+Adicionei uma feature que não estava no escopo, a qual ficou na opção 4 ( e o Encerrar na opção 5 ) onde será mostrado o faturamento total dos valores recebidos ao remover os veículos do estavionamento.
+
